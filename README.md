@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shreyas Sojitra</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=A+python+developer+with+true+passion)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=A+python+developer+with+true+passion)](https://git.io/typing-svg) -->
 
 
 
